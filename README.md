@@ -1,10 +1,9 @@
 # Prodigy-Infotech-DS-Task-3
-# 📘 [Your Project Title Here]
+# 📘 Build a decision tree classifier to predict whether a
+customer will purchase a product or service based on their
+demographic and behavioral data
 
 This project is a Jupyter Notebook-based data science analysis covering [brief description of the task or dataset].
-
-## 📌 Description
-[Add details about what the notebook does – data cleaning, modeling, visualization, etc.]
 
 ## 🛠 Technologies Used
 - Python
@@ -13,7 +12,7 @@ This project is a Jupyter Notebook-based data science analysis covering [brief d
 - Matplotlib / Seaborn / scikit-learn (as applicable)
 
 ## 📁 Dataset
-- Name: [dataset filename]
+- Name: bank.csv
 - Source: [Kaggle / UCI / Manual input / Scraped, etc.]
 
 ## 🚀 How to Run
